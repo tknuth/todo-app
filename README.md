@@ -8,3 +8,7 @@ Die Website besteht nur aus einer `index.html`. Um diese in einem Browser-basier
 
 - Machen Sie sich mit der Arbeitsumgebung vertraut.
 - Untersuchen Sie den Inhalt der HTML-Datei.
+
+## Statische Website mit CSS
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tknuth/todo-app/tree/master/02-static-styled)
