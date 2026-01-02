@@ -1,0 +1,7 @@
+{
+  "name": "todo-app",
+  "version": "0.1.0",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
