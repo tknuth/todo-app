@@ -20,3 +20,5 @@ Die Website besteht nur aus einer `index.html`. Um diese in einem Browser-basier
 ## Website mit Vite und React
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tknuth/todo-app/tree/master/04-vite-react)
+
+[![Open in CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/tknuth/todo-app-react/master?embed=1&file=%2Fsrc%2Fmain.jsx)
