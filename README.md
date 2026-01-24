@@ -12,3 +12,7 @@ Die Website besteht nur aus einer `index.html`. Um diese in einem Browser-basier
 ## Statische Website mit CSS
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tknuth/todo-app/tree/master/02-static-styled)
+
+## Interaktive Website mit JavaScript
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tknuth/todo-app/tree/master/03-static-interactive)
