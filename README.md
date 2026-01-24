@@ -16,3 +16,7 @@ Die Website besteht nur aus einer `index.html`. Um diese in einem Browser-basier
 ## Interaktive Website mit JavaScript
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tknuth/todo-app/tree/master/03-static-interactive)
+
+## Website mit Vite und React
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/fork/github/tknuth/todo-app/tree/master/04-vite-react)
