@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  text-align: center;
+}
+ul {
+  line-height: 1.5rem;
+  max-width: 320px;
+  margin: auto;
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  background-color: #eee;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin: 1rem 0;
+}
+.checked {
+  text-decoration: line-through;
+  background-color: #3498db33;
+}
